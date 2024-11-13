@@ -1,6 +1,7 @@
 import React from 'react';
 import './skills.css';
 import aboutimg from '../../Assets/aboutimg.png'
+
 const skills = () => {
   return (
     <div className='about'>

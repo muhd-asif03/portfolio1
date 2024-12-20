@@ -14,7 +14,7 @@ const skills = () => {
         </div>
         <div className="about-right">
         <div className="about-para">
-            <p>I am a web Designer with experiance in creating visual appealing and user friendly websites</p>
+            <p>I am Muhammed Asif S, a passionate web designer and a first-year MSc Computer Science student at the Kerala University Department of Computer Science. With a keen interest in creating visually appealing and functional web designs, I continually strive to enhance my skills and stay updated with the latest technologies in the field.</p>
         </div>
         <div className="about-skills">
             <div className="about-skill"><p>HTML & CSS</p><hr style={{width:"70%"}}/></div>
